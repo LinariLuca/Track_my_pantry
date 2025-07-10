@@ -43,20 +43,9 @@ This project was developed using **Swift** and **Xcode**, and demonstrates the u
 
 ## 💡 Getting Started
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/track-my-pantry.git
-   ```
-
-2. Open the project in Xcode:
-
-   ```bash
-   open Tracciare_dispensa.xcodeproj
-   ```
-
+1. Clone this repository ==> **https://github.com/LinariLuca/Track_my_pantry.git**
+2. Open the project in Xcode: ==> **open Tracciare_dispensa.xcodeproj**
 3. Select your preferred simulator or connected device.
-
 4. Build and run the project (⌘ + R).
 
 ---
@@ -70,24 +59,8 @@ To run unit and UI tests:
 
 ---
 
-## ✨ Possible Improvements
-
-- Implement persistent storage (Core Data or SQLite) to save pantry data between app launches.
-- Add notifications to remind users about expiring products.
-- Enhance the user interface with more advanced layouts.
-- Support user authentication with a backend service.
-- Localize the app into multiple languages.
-
----
-
 ## 📬 Contact & Support
 
 For questions, suggestions, or contributions, feel free to contact me:
 
-📧 **[Insert your email address here]**
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
+📧 **luca.linari@gmail.com**
